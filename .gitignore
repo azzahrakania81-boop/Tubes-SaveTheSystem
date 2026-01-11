@@ -1,0 +1,12 @@
+#NetBeans / Ant
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+#Logs
+*.log
+# OS files
+.DS_Store
+Thumbs.db
