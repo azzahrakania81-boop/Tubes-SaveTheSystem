@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Praktikum/PraktikumPV/SaveTheSystem/src/savethesystem/ui/GameOverFrame.java</file>
+            <file>file:/C:/Praktikum/PraktikumPV/SaveTheSystem/src/savethesystem/ui/GradientPanel.java</file>
+            <file>file:/C:/Praktikum/PraktikumPV/SaveTheSystem/src/savethesystem/dao/UserDAO.java</file>
+            <file>file:/C:/Praktikum/PraktikumPV/SaveTheSystem/src/savethesystem/ui/GameFrame.java</file>
+            <file>file:/C:/Praktikum/PraktikumPV/SaveTheSystem/src/savethesystem/dao/LogDAO.java</file>
+            <file>file:/C:/Praktikum/PraktikumPV/SaveTheSystem/src/savethesystem/ui/LeaderboardFrame.java</file>
+            <file>file:/C:/Praktikum/PraktikumPV/SaveTheSystem/src/savethesystem/dao/SessionDAO.java</file>
+            <file>file:/C:/Praktikum/PraktikumPV/SaveTheSystem/src/savethesystem/model/Score.java</file>
+            <file>file:/C:/Praktikum/PraktikumPV/SaveTheSystem/src/savethesystem/ui/YouWinFrame.java</file>
+            <file>file:/C:/Praktikum/PraktikumPV/SaveTheSystem/src/savethesystem/model/User.java</file>
+            <file>file:/C:/Praktikum/PraktikumPV/SaveTheSystem/src/savethesystem/dao/ScoreDAO.java</file>
+            <file>file:/C:/Praktikum/PraktikumPV/SaveTheSystem/src/savethesystem/logic/ProblemGenerator.java</file>
+            <file>file:/C:/Praktikum/PraktikumPV/SaveTheSystem/src/savethesystem/logic/Problem.java</file>
+            <file>file:/C:/Praktikum/PraktikumPV/SaveTheSystem/src/savethesystem/ui/LoginFrame.java</file>
+            <file>file:/C:/Praktikum/PraktikumPV/SaveTheSystem/src/savethesystem/db/DBConnection.java</file>
+        </group>
+    </open-files>
+</project-private>
